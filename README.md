@@ -71,7 +71,8 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 
 
 ```perl
-Esse `README.md` oferece uma estrutura clara para que outros desenvolvedores possam entender e usar seu projeto de maneira eficaz. 
-Ajuste conforme necessário para se adequar ao conteúdo e ao propósito específico do seu notebook. 
-&#8203;:contentReference[oaicite:0]{index=0}&#8203;
+Esse `README.md` oferece uma estrutura clara para que outros desenvolvedores possam entender
+e usar seu projeto de maneira eficaz. 
+Ajuste conforme necessário para se adequar ao conteúdo
+e ao propósito específico do seu notebook.
 ```
